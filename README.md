@@ -1,4 +1,4 @@
-# PADTELERIA-DIAL
+# PASTELERIA-DIAL
 Pastelería y repostería casera y personalizadas
 <!doctype html>
 <html lang="es">
